@@ -1,5 +1,9 @@
-# Code your solution in variable.rb
+#variable.rb
+#variable. rb
 describe "./variable.rb" do
+  variable. rb = greeting
+  greeting = "hello world"
+  greeting
 
   it "defined a local variable called greeting and set it equal to 'Hello World'" do
     greeting = get_variable_from_file('./variable.rb', "greeting")
